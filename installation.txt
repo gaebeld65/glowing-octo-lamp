@@ -1,0 +1,3 @@
+Installation Guide
+
+this is a collection of instructions for installation of the software
